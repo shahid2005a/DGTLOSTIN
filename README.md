@@ -1,6 +1,6 @@
 # DGTLOSTIN
 DGTL OSTIN REPO 
-![logo](https://github.com/shahid2005a/DGTLOSTIN/blob/main/DGTLOSTIN.png)
+![logo](https://github.com/shahid2005a/DGTLOSTIN/blob/main/Dgtlostin.png)
 
 
 ### 𝕋𝔼ℝ𝕄𝕌𝕏 ℂ𝔸𝕄𝕄𝔸ℕ𝔻
@@ -9,18 +9,13 @@ DGTL OSTIN REPO
 pkg update && pkg upgrade -y
 
 
-
 termux-setup-storage
-
-
 
 
 pkg install python git -y
 
 
-
 pip install requests pyTelegramBotAPI
-
 
 
 git clone https://github.com/shahid2005a/DGTLOSTIN.git
